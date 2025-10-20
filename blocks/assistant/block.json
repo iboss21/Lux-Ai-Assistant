@@ -1,0 +1,11 @@
+{
+  "apiVersion": 2,
+  "name": "luxai/assistant",
+  "title": "Lux AI Assistant",
+  "category": "widgets",
+  "icon": "format-chat",
+  "description": "Embeds the Lux AI Assistant chat.",
+  "textdomain": "luxai",
+  "editorScript": "luxai-assistant-block",
+  "render": "php"
+}

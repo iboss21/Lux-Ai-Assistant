@@ -1,5 +1,4 @@
 .luxai-admin-chat{border:1px solid #ccd0d4;background:#fff;border-radius:8px;padding:12px;min-height:420px}
-.luxai-admin-chat .log{height:320px;overflow:auto;border:1px solid #e2e4e7;border-radius:6px;padding:8px;margin-bottom:8px}
 .luxai-front-chat{border:1px solid #ddd;border-radius:8px;padding:8px}
 .luxai-front-chat .luxai-front-chat-log{max-height:300px;overflow:auto;margin-bottom:6px}
 .luxai-front-chat .me{background:#eef;border-radius:6px;padding:6px;margin:4px 0}
